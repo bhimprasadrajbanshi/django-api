@@ -3,12 +3,14 @@
 
 # Example
 <p>To get the example project running do</p>
-<p>1)Clone this repo</p>
-
+1.Clone this repo
 ```bash
   https://github.com/bhimprasadrajbanshi/django-api.git
 ```
-
+1.Clone this repo
+```bash
+  https://github.com/bhimprasadrajbanshi/django-api.git
+```
 <p>2)admin user:asus</p>
 <p>3)admin password:123</p>
 
