@@ -44,7 +44,7 @@ from rest_framework.renderers import JSONRenderer
  pip install -r requirements.txt
 ```
 
-<p>2)admin user:asus</p>
-<p>3)admin password:123</p>
+<p>.admin user:asus</p>
+<p>.admin password:123</p>
 
 
