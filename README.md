@@ -12,6 +12,17 @@
     roll = serializers.IntegerField()
     addres = serializers.CharField(max_length=200)
 ```
+## Serializing objects
+
+```python
+  serializer = studentSerializer(std)
+```
+<p>To finalise the serialization process we render the data into json</p>
+from rest_framework.renderers import JSONRenderer
+
+```python
+  json = JSONRenderer().render(serializer.data)
+```
 
 # Example
 <p>To get the example project running do</p>
