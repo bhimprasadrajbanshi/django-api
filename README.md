@@ -8,6 +8,13 @@
 ```bash
   https://github.com/bhimprasadrajbanshi/django-api.git
 ```
+
+</p> 2)Clone this repo</p> 
+
+```bash
+  https://github.com/bhimprasadrajbanshi/django-api.git
+```
+
 <p>2)admin user:asus</p>
 <p>3)admin password:123</p>
 
