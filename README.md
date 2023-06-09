@@ -1,6 +1,6 @@
 # django-Rest- framework-api
 <h3>This project only for basic api like get(read data) funtion</h3>
-## Declaring Serializers
+## Declaring Serializers  
 #### We'll declare a serializer that we can use to serialize and deserialize data that corresponds to student objects.
 
 # Example
