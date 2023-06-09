@@ -4,6 +4,13 @@
 ## Declaring Serializers
 #### We'll declare a serializer that we can use to serialize and deserialize data that corresponds to student objects.
 
+'''python
+  class studentSerializer(serializers.Serializer):
+    name = serializers.CharField(max_length=200)
+    roll = serializers.IntegerField()
+    addres = serializers.CharField(max_length=200)
+'''
+
 # Example
 <p>To get the example project running do</p>
 <p>1)Clone this repo </p> 
