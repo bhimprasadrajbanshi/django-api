@@ -3,7 +3,7 @@
 
 ## Declaring Serializers
 #### We'll declare a serializer that we can use to serialize and deserialize data that corresponds to student objects.
-
+<p> Declaring a serializer like similar to declaring a form </p>
 ```python
 
   class studentSerializer(serializers.Serializer):
