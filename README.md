@@ -6,7 +6,7 @@
 <p>1)Clone this repo</p>
 
 ```bash
-  [npm run deploy](https://github.com/bhimprasadrajbanshi/django-api.git)
+  [](https://github.com/bhimprasadrajbanshi/django-api.git)
 ```
 
 <p>2)admin user:asus</p>
