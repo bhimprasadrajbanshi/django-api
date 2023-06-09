@@ -9,5 +9,5 @@ $https://github.com/bhimprasadrajbanshi/django-api.git
 <p>2)admin user:asus</p>
 <p>3)admin password:123</p>
 
-CI_COMMIT_SLUG
+<button onclick="myFunction()">Copy text</button>
 
