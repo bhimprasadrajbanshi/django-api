@@ -17,7 +17,8 @@ $https://github.com/bhimprasadrajbanshi/django-api.git
   </head>
   <body>
 
-  hi
+     <div id="secretInfo" style="display: none;">secret info</div>
+    <button type="button" id="btnCopy">Copy hidden info</button>
 
 
   </body>
