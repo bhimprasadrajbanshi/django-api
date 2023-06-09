@@ -9,10 +9,16 @@
   https://github.com/bhimprasadrajbanshi/django-api.git
 ```
 
-</p> 2)Clone this repo</p> 
+</p> 2)install virtual enviroment</p> 
 
 ```bash
-  https://github.com/bhimprasadrajbanshi/django-api.git
+  py -m venv env
+```
+
+</p> 3)nstall all of the Python modules and packages listed in your requirements.txt file</p> 
+
+```bash
+ pip install -r requirements.txt
 ```
 
 <p>2)admin user:asus</p>
