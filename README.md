@@ -9,7 +9,13 @@ $https://github.com/bhimprasadrajbanshi/django-api.git
 <p>2)admin user:asus</p>
 <p>3)admin password:123</p>
 
-function test() {
-  console.log("This code will have a copy button to the right of it");
+var copy = function(target) {
+    var textArea = document.createElement('textarea')
+    textArea.setAttribute('style','width:1px;border:0;opacity:0;')
+    document.body.appendChild(textArea)
+    textArea.value = target.innerHTML
+    textArea.select()
+    document.execCommand('copy')
+    document.body.removeChild(textArea)
 }
 
