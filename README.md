@@ -20,24 +20,7 @@ $https://github.com/bhimprasadrajbanshi/django-api.git
     <div id="secretInfo" style="display: none;">secret info</div>
     <button type="button" id="btnCopy">Copy hidden info</button>
 
-    <script type="text/javascript">
-      var $body = document.getElementsByTagName('body')[0];
-      var $btnCopy = document.getElementById('btnCopy');
-      var secretInfo = document.getElementById('secretInfo').innerHTML;
 
-      var copyToClipboard = function(secretInfo) {
-        var $tempInput = document.createElement('INPUT');
-        $body.appendChild($tempInput);
-        $tempInput.setAttribute('value', secretInfo)
-        $tempInput.select();
-        document.execCommand('copy');
-        $body.removeChild($tempInput);
-      }
-
-      $btnCopy.addEventListener('click', function(ev) {
-        copyToClipboard(secretInfo);
-      });
-    </script>
   </body>
 </html>
 
