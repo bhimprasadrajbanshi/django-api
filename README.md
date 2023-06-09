@@ -8,3 +8,7 @@ $https://github.com/bhimprasadrajbanshi/django-api.git
 
 <p>2)admin user:asus</p>
 <p>3)admin password:123</p>
+
+ name: Get the version
+  id: get_version
+  run: echo ::set-output name=VERSION::${GITHUB_REF#refs/tags/}
