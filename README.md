@@ -3,11 +3,11 @@
 
 # Example
 <p>To get the example project running do</p>
-1.Clone this repo  
+<p>1.Clone this repo </p> 
 ```bash
   https://github.com/bhimprasadrajbanshi/django-api.git
 ```
-1.Clone this repo
+</p> 2.Clone this repo</p> 
 ```bash
   https://github.com/bhimprasadrajbanshi/django-api.git
 ```
